@@ -1,6 +1,5 @@
 # COMP4651 Assignment-5 (8 marks)
 
-### Deadline: Apr 18, 23:59 (Sunday)
 ---
 
 In this assignment, you will write a pipeline of machine learning application in Spark. This assignment repository consists of only one IPython notebook:
